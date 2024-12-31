@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+ 
+# Environment variable files
+.env
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Dependency directories
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Static files
+*.cache
+
+# Environment variable files
+.env
+.vscode/
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
